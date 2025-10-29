@@ -1,0 +1,7 @@
+{
+  "name": "ZX STUDIO",
+  "description": "An innovative, conversational operating system powered by multiple AIs. Interact with your digital world through natural language, manage tasks, generate content, and build applications, all within a futuristic, dynamic interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
